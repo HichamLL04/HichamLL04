@@ -1,5 +1,7 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HichamLL04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HichamLL04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HichamLL04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h1 align="center">📊 GitHub Stats:</h1>
 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=HichamLL04&theme=dark&hide_border=false" />
+</p>
+
+<h1 align="center">🐦 Network</h1>
