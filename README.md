@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=HichamLL04&theme=dark&hide_border=false" />
 <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HichamLL04&layout=compact&theme=radical" />
+  <img src="http://github.hichamlaaouni.cat:8981/?user=HichamLL04&theme=dark&hide_border=true&locale=es&exclude_days=Sun%2CSat&background=30%2C000000%2C2B0F0F" />
 </p>
 </p>
 <p align="center">
