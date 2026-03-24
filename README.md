@@ -1,7 +1,7 @@
 <h1 align="center">📊 GitHub Stats:</h1>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github.hichamlaaouni.cat?user=HichamLL04&theme=highcontrast&locale=es&exclude_days=Sun%2CSat&background=45%2C060202%2C150707" alt="GitHub Streak" /></a>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=HichamLL04&theme=dark&hide_border=false" />
 <br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HichamLL04&layout=compact&theme=radical" />
 </p>
